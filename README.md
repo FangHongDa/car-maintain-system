@@ -53,13 +53,12 @@
 点击商品详情中的演示地址，看查看系统录制的视频    
 
 #### 使用说明
-1. 创建数据库，执行数据库脚本
-2. 修改jdbc数据库连接参数
-3. 下载安装maven依赖jar
-4. 在tomcat服务器部署项目  
-    请求地址： http://localhost:8080/hotel-manage    
-    用户名：admin  
-    密码：admin  
+1. 创建数据库，执行数据库脚本  
+2. 修改jdbc数据库连接参数  
+3. 下载安装maven依赖jar  
+4. 启动springboot项目的即可  
+请求地址： http://localhost:8080  
+账号密码： admin|admin  
 
 #### 联系作者
 这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者  
